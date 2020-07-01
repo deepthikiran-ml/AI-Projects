@@ -1,4 +1,7 @@
-# AI-Projects
+Project 1:
+Yoga Recommonder based on symptoms
+
+
 Our proposal is to recommend yoga exercises and come up with a yoga schedule based on the symptoms observed.
 The application takes the symptom parameters as input and map this to the problem such as sinusitis, 
 thyroid, ergonomic pain (pain caused due to bad posture), heart problem, allergy, sports injury etc. 
